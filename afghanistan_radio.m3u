@@ -1,0 +1,14 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Afghanistan radios",Radio Salam Watandar 98.9 MHZ
+http://s10.myradiostream.com:12238/;
+#EXTINF:-1 group-title="Afghanistan radios",Radio Killid Kabul 88.0 FM
+http://s1.voscast.com:7886/;stream.1rje
+#EXTINF:-1 group-title="Afghanistan radios",Ariana FM 93.5
+https://streams.radio.co/sa3345aaa8/listen
+#EXTINF:-1 group-title="Afghanistan radios",Arman FM 98.1
+http://158.69.225.238:3953/;stream.mp3
+#EXTINF:-1 group-title="Afghanistan radios",Shamshad FM Live Radio Kabul Afghanistan
+http://nl1.streamingpulse.com:7080/stream
+

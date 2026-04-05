@@ -1,0 +1,24 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Australia radios",SEN radio
+http://cast.sen.com.au:8000/sen.mp3
+#EXTINF:-1 group-title="Australia radios",ABC radio sydney 702 KHZ
+https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/index.m3u8
+#EXTINF:-1 group-title="Australia radios",ABC cricket (Unlocked)
+http://duong.id.au/proxy/index.php?q=aHR0cDovL2xpdmUtcmFkaW8wMi5tZWRpYWh1YmF1c3RyYWxpYS5jb20vR1NEVy9hYWMv&hl=3ed
+#EXTINF:-1 group-title="Australia radios",ABC news
+http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls
+#EXTINF:-1 group-title="Australia radios",ABC RN
+http://live-radio01.mediahubaustralia.com/8RNW/aac/
+#EXTINF:-1 group-title="Australia radios",ABC sport
+http://www.abc.net.au/res/streaming/audio/mp3/grandstand.pls
+#EXTINF:-1 group-title="Australia radios",Triple J
+http://live-radio01.mediahubaustralia.com/8TJW/aac/
+#EXTINF:-1 group-title="Australia radios",Triple j unearthed
+http://www.abc.net.au/res/streaming/audio/mp3/unearthed.pls
+#EXTINF:-1 group-title="Australia radios",Double J
+http://www.abc.net.au/res/streaming/audio/mp3/dig_music.pls
+#EXTINF:-1 group-title="Australia radios",ABC classic
+http://live-radio01.mediahubaustralia.com/8FMW/aac/
+#EXTINF:-1 group-title="Australia radios",ABC classic 2
+http://www.abc.net.au/res/streaming/audio/mp3/classic_two.pls

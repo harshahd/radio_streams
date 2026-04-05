@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Pakistan radios",Hum FM 106.2 MHZ
+https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1
+#EXTINF:-1 group-title="Pakistan radios",Saut-ul-Quran Islamabad
+https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12
+#EXTINF:-1 group-title="Pakistan radios",Islamabad Station
+https://whmsonic.radio.gov.pk:8044/stream?type=http&nocache=4
+#EXTINF:-1 group-title="Pakistan radios",NCAC Islamabad
+https://whmsonic.radio.gov.pk:8000/stream?type=http&nocache=4
+#EXTINF:-1 group-title="Pakistan radios",World Service Islamabad
+https://whmsonic.radio.gov.pk:8008/stream?type=http&nocache=4
+#EXTINF:-1 group-title="Pakistan radios",External Service Islamabad
+https://whmsonic.radio.gov.pk:8042/stream?type=http&nocache=4
+#EXTINF:-1 group-title="Pakistan radios",Dhanak Islamabad
+https://whmsonic.radio.gov.pk:8002/stream?type=http&nocache=4
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Islamabad
+https://whmsonic.radio.gov.pk:8006/relay?type=http&nocache=9;
+#EXTINF:-1 group-title="Pakistan radios",Radio1 91.0 Islamabad
+http://cc.vmakerhost.com:8147/stream
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Bahawalpur Punjab
+https://whmsonic.radio.gov.pk:8010/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",MW Bahawalpur Punjab
+https://whmsonic.radio.gov.pk:8012/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 93 Faisalabad Punjab
+https://whmsonic.radio.gov.pk:8094/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Faisalabad Punjab
+https://whmsonic.radio.gov.pk:8096/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 93 Lahore Punjab
+https://whmsonic.radio.gov.pk:8056/stream?type=http&nocache=4
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Lahore Punjab
+https://whmsonic.radio.gov.pk:7000/101lahore
+#EXTINF:-1 group-title="Pakistan radios",Lahore MW Punjab
+https://whmsonic.radio.gov.pk:8086/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",Mianwali MW Punjab
+https://whmsonic.radio.gov.pk:8048/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 93 Multan Punjab
+https://whmsonic.radio.gov.pk:8064/stream?type=http&nocache=4
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Multan Punjab
+https://whmsonic.radio.gov.pk:8062/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",Multan MW Punjab
+https://whmsonic.radio.gov.pk:8066/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 93 Rawalpindi Punjab
+https://whmsonic.radio.gov.pk:8046/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Sialkot Punjab
+https://whmsonic.radio.gov.pk:9300/101sialkot?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",Hyderabad Sindh
+https://whmsonic.radio.gov.pk:9004/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Hyderabad Sindh
+https://whmsonic.radio.gov.pk:9300/101Hyd?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Karachi Sindh
+https://whmsonic.radio.gov.pk:8036/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 93 Karachi Sindh
+https://whmsonic.radio.gov.pk:8038/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Larkana Sindh
+https://whmsonic.radio.gov.pk:9300/larkana?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Mithi Sindh
+https://whmsonic.radio.gov.pk:9300/Mithi?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Quetta Balochistan
+https://whmsonic.radio.gov.pk:8090/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",Quetta MW Balochistan
+https://whmsonic.radio.gov.pk:8092/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Peshawar Khyber Pakhtunkhwa
+https://whmsonic.radio.gov.pk:8052/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",Peshawar MW Khyber Pakhtunkhwa
+https://whmsonic.radio.gov.pk:8088/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Kohat Khyber Pakhtunkhwa
+https://whmsonic.radio.gov.pk:9300/Kohat?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Abbotabad Khyber Pakhtunkhwa
+http://stream.radio.gov.pk:9300/Abbottabad
+#EXTINF:-1 group-title="Pakistan radios",FM 93 Chitral Khyber Pakhtunkhwa
+https://whmsonic.radio.gov.pk:9300/chitral?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 101 Mirpur Azad Jammu and Kashmir
+https://whmsonic.radio.gov.pk:8030/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",AK-RADIO-MIRPUR Azad Jammu and Kashmir
+https://whmsonic.radio.gov.pk:8032/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",AK-RADIO-Tarakhel Azad Jammu and Kashmir
+https://whmsonic.radio.gov.pk:8098/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",FM 93 Muzaffarabad Azad Jammu and Kashmir
+https://whmsonic.radio.gov.pk:8028/relay?type=http&nocache=9
+#EXTINF:-1 group-title="Pakistan radios",Gilgit MW
+https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9

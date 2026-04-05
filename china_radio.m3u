@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="China radios",CGTN 846 KHZ
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 group-title="China radios",CRI EZFM
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 group-title="China radios",CRL news
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1 group-title="China radios",CRI music
+http://sk.cri.cn/am1008.m3u8
